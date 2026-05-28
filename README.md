@@ -29,7 +29,7 @@ Currently, I’m working on:
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div>
 **Core IT**
 - Networking fundamentals (TCP/IP, DNS, routing basics)
 - Linux (Ubuntu, Linux Mint)
