@@ -4,10 +4,11 @@
   
 ### Building things that matter • Code → Impact → Learn → Repeat
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://me-lw55.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)-->
 
 </div>
 
@@ -15,15 +16,38 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a focus on **Web Development** and **Cyber Security**. I love building scalable solutions and exploring the intersection of technology and creativity. When I'm not coding, you'll find me **Out in the Wild⚜️**.
+I'm a passionate developer with a focus on **Web Development** and **Cyber Security**. I enjoy understanding how systems work under the hood—and how they break—so I can help build safer digital spaces.
+ When I'm not coding, you'll find me **Out in the Wild⚜️**.
 
-Currently working on **Cedar/front End** — always open to interesting challenges and collaborations.
+
+Currently, I’m working on:
+-  **ClickSafe** — a cybersecurity awareness project for students and youth  
+-  Scout IT initiatives that merge technology with real-world problem solving  
+-  Strengthening my foundation in Linux, networking, and secure systems  
 
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
+**Core IT**
+- Networking fundamentals (TCP/IP, DNS, routing basics)
+- Linux (Ubuntu, Linux Mint)
+- System troubleshooting & IT support
+
+**Programming**
+- HTML, CSS, JavaScript (practice stage)
+- Basic scripting and problem solving
+
+**Cybersecurity Interests**
+- Cyber awareness & digital safety education
+- Ethical hacking fundamentals (learning phase)
+- System hardening basics
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux terminal
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,6 +75,24 @@ Currently working on **Cedar/front End** — always open to interesting challeng
 
 ---
 
+## 🛡️ Featured Work
+
+### 🛡️ ClickSafe – Cybersecurity Awareness Initiative
+> A youth-focused program designed to teach students safe internet habits, cyber hygiene, and basic threat awareness.
+
+**Focus:** Education • Awareness • Digital Safety  
+**Goal:** Build a safer online culture for students in schools and communities  
+🔗 Project documentation coming soon
+
+---
+
+### 🌍 Scouts in IT (Concept Project)
+> Combining Scouting values with IT skills to build tech-driven community solutions.
+
+**Focus:** Leadership + Technology  
+**Goal:** Use IT skills to solve real-world community problems  
+<!--
+
 ## Featured Projects
 
 ### Project Name One
@@ -77,7 +119,7 @@ Currently working on **Cedar/front End** — always open to interesting challeng
 **Tech:** Go • Kubernetes • GraphQL  
 **Impact:** [Key metrics or achievements]  
 🔗 [View Repository](https://github.com/yourname/repo)
-
+-->
 ---
 
 ## 📊 GitHub Analytics
@@ -95,31 +137,31 @@ Currently working on **Cedar/front End** — always open to interesting challeng
 ## 🎓 Learning & Growth
 
 ```
-Currently exploring:
-├── Advanced TypeScript patterns
-├── System design & architecture
-├── [Your learning focus 2]
-└── [Your learning focus 3]
+Learning Path:
+├── Networking fundamentals (deeper understanding)
+├── Linux system administration basics
+├── Cybersecurity principles (threats, defense, awareness)
+└── Building ClickSafe into a structured program
 ```
 
 ---
 
 ## 📈 What I'm Up To
 
-- 🔨 Building **[project/product name]** and learning **[tech]**
-- 📚 Reading about **[topic of interest]**
-- 🤝 Open to collaborations on **[type of project]**
-- 💬 Ask me about **[topic expertise]**
+- 🔨 Building **JUJ4/CEDAR** and learning **[tech]**
+- <!-- 📚 Reading about **[topic of interest]**
+- <!--🤝 Open to collaborations on **[type of project]**
+- <!-- 💬 Ask me about **[topic expertise]**
 
 ---
 
 ## 🤝 Let's Connect
 
-I love talking about tech, sharing ideas, and helping others. Feel free to reach out if you want to:
-- Collaborate on a project
-- Discuss interesting ideas
-- Share knowledge or feedback
-- Just chat about [topic]
+I’m always open to:
+- Cybersecurity discussions
+- Collaboration on IT or awareness projects
+- Learning opportunities in networking and systems
+- Community-focused tech ideas
 
 <div align="center">
 
