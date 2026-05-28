@@ -126,9 +126,9 @@ Currently, I’m working on:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis-Sia&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF)](https://github.com/your-username)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&title_color=58A6FF)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otis-Sia&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&title_color=58A6FF)](https://github.com/your-username)
 
 </div>
 
