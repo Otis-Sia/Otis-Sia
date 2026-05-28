@@ -1,4 +1,4 @@
-# Hey, I'm Otieno Sia 👋
+# Hey, I'm Otieno Sia
 
 <div align="center">
   
