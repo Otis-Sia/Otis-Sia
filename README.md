@@ -126,9 +126,9 @@ Currently, I’m working on:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis-Sia&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Otis-Sia)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis-Sia&show_icons=true&theme=dark)](https://github.com/Otis-Sia)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otis-Sia&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=C9D1D9&title_color=58A6FF)](https://github.com/Otis-Sia)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otis-Sia&layout=compact&theme=dark)](https://github.com/Otis-Sia)
 
 </div>
 
@@ -149,9 +149,9 @@ Learning Path:
 ## 📈 What I'm Up To
 
 - 🔨 Building **JUJ4/CEDAR** and learning **[tech]**
-- <!-- 📚 Reading about **[topic of interest]**
-- <!--🤝 Open to collaborations on **[type of project]**
-- <!-- 💬 Ask me about **[topic expertise]**
+- <!-- 📚 Reading about **[topic of interest]** -->
+- <!--🤝 Open to collaborations on **[type of project]** -->
+- <!-- 💬 Ask me about **[topic expertise]** -->
 
 ---
 
@@ -167,7 +167,7 @@ I’m always open to:
 
 **Let's build something amazing together!** 🚀
 
-![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Otis-Sia&color=blueviolet&style=flat-square)
 
 </div>
 
