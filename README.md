@@ -126,9 +126,12 @@ Currently, I’m working on:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis-Sia&show_icons=true&theme=dark)](https://github.com/Otis-Sia)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otis-Sia&layout=compact&theme=dark)](https://github.com/Otis-Sia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis-Sia&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Otis-Sia&theme=github-dark-blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otis-Sia&layout=compact&theme=github_dark)
 
 </div>
 
@@ -149,9 +152,9 @@ Learning Path:
 ## 📈 What I'm Up To
 
 - 🔨 Building **JUJ4/CEDAR** and learning **[tech]**
-- <!-- 📚 Reading about **[topic of interest]** -->
-- <!--🤝 Open to collaborations on **[type of project]** -->
-- <!-- 💬 Ask me about **[topic expertise]** -->
+<!-- - 📚 Reading about **[topic of interest]** -->
+<!-- - 🤝 Open to collaborations on **[type of project]** -->
+<!--  - 💬 Ask me about **[topic expertise]** -->
 
 ---
 
