@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Otieno Sia 👋
 
 <div align="center">
   
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a focus on **[your main focus]**. I love building scalable solutions and exploring the intersection of technology and creativity. When I'm not coding, you'll find me **[your interests]**.
+I'm a passionate developer with a focus on **Web Development** and **Cyber Security**. I love building scalable solutions and exploring the intersection of technology and creativity. When I'm not coding, you'll find me **Out in the Wild⚜️**.
 
-Currently working on **[current project/role]** — always open to interesting challenges and collaborations.
+Currently working on **Cedar/front End** — always open to interesting challenges and collaborations.
 
 ---
 
@@ -28,8 +28,8 @@ Currently working on **[current project/role]** — always open to interesting c
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<--![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)-->
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
