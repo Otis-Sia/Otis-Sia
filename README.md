@@ -127,13 +127,13 @@ Currently, I’m working on:
 <div align="center">
 
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otis-Sia&show_icons=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Otis-Sia&theme=github-dark-blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otis-Sia&layout=compact&theme=github_dark)
-
-</div>
 
 ---
 
