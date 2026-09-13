@@ -27,26 +27,20 @@
 
 ## About Me
 
-```yaml
-name: Otieno Sia
-location: Nairobi, Kenya
-organization: Cepine
-role: Software Developer & Security Advocate
-website: sia.cepine.com
+I'm a **Software Developer & Security Advocate** based in **Nairobi, Kenya**, building with **Cepine**. I create software that bridges technology with real-world impact -- from full-stack web applications to cybersecurity education initiatives -- always with a focus on making systems safer and more accessible.
 
-currently_building:
-  - SER (Scout's Emergency Rescue) - active development
-  - Click-Safe - cybersecurity awareness for students & youth
-  - E-commerce solutions with modern web frameworks
+**What I'm currently building:**
 
-interests:
-  - Web development (full-stack)
-  - Cybersecurity awareness & digital safety
-  - Scouting & community-driven tech solutions
-  - Linux systems & networking fundamentals
-```
+- **SER** (Scout's Emergency Rescue) -- active development
+- **Click-Safe** -- cybersecurity awareness for students & youth
+- E-commerce solutions with modern web frameworks
 
-I build software that bridges technology with real-world impact. My work spans from **full-stack web applications** to **cybersecurity education initiatives**, always with a focus on making systems safer and more accessible. As part of **Cepine**, I combine scouting values with IT skills to create tech-driven community solutions.
+**What drives me:**
+
+- Full-stack web development
+- Cybersecurity awareness & digital safety
+- Scouting & community-driven tech solutions
+- Linux systems & networking fundamentals
 
 ---
 
@@ -225,15 +219,11 @@ An improved iteration of the Shop project with refined features, better UX, and 
 
 ## Currently Learning
 
-```
-Learning Path
-|
-+-- Advanced React patterns & Next.js optimization
-+-- Linux system administration
-+-- Cybersecurity principles (threats, defense, awareness)
-+-- Networking fundamentals (TCP/IP, DNS, routing)
-\-- Building Click-Safe into a structured program
-```
+- Advanced React patterns & Next.js optimization
+- Linux system administration
+- Cybersecurity principles (threats, defense, awareness)
+- Networking fundamentals (TCP/IP, DNS, routing)
+- Building Click-Safe into a structured program
 
 ---
 
